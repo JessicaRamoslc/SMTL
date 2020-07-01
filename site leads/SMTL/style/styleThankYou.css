@@ -1,0 +1,53 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: #8943e8
+    
+}
+
+h2{
+    font-family: 'Muli', sans-serif;
+    text-align: justify;
+    text-align: left;
+    padding-top: 150px;
+    padding-bottom: 10px;
+    color: #ffff;
+}
+
+h4{
+    font-family: 'Muli', sans-serif;
+    text-align: justify;
+    text-align: left;
+    color: #ffff;
+    font-weight: lighter;
+    font-size: 20px;
+    padding-bottom: 20px;
+    
+    
+}
+
+btn a{
+    list-style: none;
+    text-decoration: none;
+}
+
+.agradecimento{
+    max-width: auto;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-bottom: 100px;
+    background-color: #8943e8!important;
+}
+
+li{
+    padding-top: 8px;
+    text-decoration: none;
+    list-style: none;
+    color: #ffff;
+}
+
+@media(max-width: 400px){
+    .agradecimento{
+        background-color: #fff;
+    }
+}
